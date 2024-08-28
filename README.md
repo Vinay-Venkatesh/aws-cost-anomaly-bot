@@ -1,2 +1,2 @@
 # aws-cost-anomaly-bot
-Cost Anomaly detection bot
+Cost Anomaly detection slack bot
